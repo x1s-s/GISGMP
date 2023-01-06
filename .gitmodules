@@ -1,0 +1,6 @@
+[submodule "AdapterService"]
+	path = AdapterService
+	url = C:\\Users\\User\\IdeaProjects\\GISGMP\\AdapterService
+[submodule "SMEV"]
+	path = SMEV
+	url = C:\\Users\\User\\IdeaProjects\\GISGMP\\SMEV
