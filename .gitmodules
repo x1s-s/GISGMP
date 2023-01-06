@@ -1,6 +1,6 @@
 [submodule "AdapterService"]
 	path = AdapterService
-	url = C:\\Users\\User\\IdeaProjects\\GISGMP\\AdapterService
+	url = https://github.com/x1s-s/AdapterService.git
 [submodule "SMEV"]
 	path = SMEV
-	url = C:\\Users\\User\\IdeaProjects\\GISGMP\\SMEV
+	url = https://github.com/x1s-s/SMEV.git
